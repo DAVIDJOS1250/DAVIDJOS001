@@ -1,0 +1,3 @@
+touch .env
+API_KEY=David3002182003
+BASE_URL=https://api.dandav2003.com/v1
